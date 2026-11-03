@@ -24,7 +24,7 @@
 
 ## Entre em contato comigo
 <br>
-<a href="https://www.linkedin.com/in/durval-espíndola-276061169/" target="_blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fc38dba2-a14f-46e4-aa87-20b8cbc3c410" />
+<a href="https://www.linkedin.com/in/durval-espíndola-276061169/" target="_blank" ><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fc38dba2-a14f-46e4-aa87-20b8cbc3c410" />
 </a>
 
 

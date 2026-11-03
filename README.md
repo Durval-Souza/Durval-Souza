@@ -1,19 +1,25 @@
 <img width="100%" height="450" alt="image_314e759a" src="https://github.com/user-attachments/assets/3e0744f9-9f20-4d4f-bc18-c476bfc5c3c9" />
 
-Tenho 27 anos e estou estudando para ser um desenvolvedor Front-End! :computer:
-<br>
-Sou apaixonado por tecnologia e meu objetivo é aprender a desenvolver projetos intuitivos e práticos. :notebook_with_decorative_cover:
-<br>
-<br>
-Aprendi sobre HTML e CSS, e agora estou aprendendo sobre JavaScript e React.
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+                            Tenho 27 anos e estou estudando para ser um desenvolvedor Front-End!
+                            
+          Sou apaixonado por tecnologia e meu objetivo é aprender a desenvolver projetos intuitivos e práticos. 
+
 <br>
 <br>
-<br>
+
+## Linguagens que aprendi:
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/45fd9df4-5e39-4e94-82d7-82800b5ce8a5" /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/e9ff9bd1-75a2-4fcb-a2db-7b3be909e818" /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/2bc431bb-1e5d-4874-9643-9fde815248c3" /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/e4945ea1-20f2-4938-a2b7-105873d8ad2f" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Entre em contato comigo

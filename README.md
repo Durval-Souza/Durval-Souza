@@ -2,7 +2,7 @@
 
                             Tenho 27 anos e estou estudando para ser um desenvolvedor Front-End!
                             
-          Sou apaixonado por tecnologia e meu objetivo é aprender a desenvolver projetos intuitivos e práticos. 
+              Sou apaixonado por tecnologia e meu objetivo é aprender a desenvolver projetos intuitivos e práticos. 
 
 <br>
 <br>
